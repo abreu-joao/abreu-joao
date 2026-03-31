@@ -4,6 +4,8 @@
 </p>
 <br>
 
-Computer Science student at Universidade Federal do Paraná (UFPR). My studies and personal projects are currently focused on the intersection of Backend Development, Data Engineering, and Applied Artificial Intelligence.
+Computer Science student at Universidade Federal do Paraná (UFPR). 
+
+My studies and personal projects are currently focused on the intersection of Backend Development, Data Engineering, and Applied Artificial Intelligence.
 
 As an undergraduate, my main goal is to build a strong and resilient technical foundation. I focus on developing end-to-end applications to learn, in practice, how to solve real-world problems using clean architecture, reliable infrastructure, and scalable systems.
