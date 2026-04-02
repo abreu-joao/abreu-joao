@@ -4,7 +4,7 @@
 </p>
 <br>
 
-Computer Science student at Universidade Federal do Paraná (UFPR). 
+Computer Science undergraduate at Universidade Federal do Paraná (UFPR).
 
 My studies and personal projects are currently focused on the intersection of Backend Development, Data Engineering, and Applied Artificial Intelligence.
 
