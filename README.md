@@ -6,6 +6,6 @@
 
 Computer Science undergraduate at Universidade Federal do Paraná (UFPR).
 
-My studies and personal projects are currently focused on the intersection of Backend Development, Data Engineering, and Applied Artificial Intelligence.
+My work and research are currently focused on the intersection of Backend Development, Data Engineering, and Applied Artificial Intelligence.
 
-As an undergraduate, my main goal is to build a strong and resilient technical foundation. I focus on developing end-to-end applications to learn, in practice, how to solve real-world problems using clean architecture, reliable infrastructure, and scalable systems.
+Rather than just writing code, my goal is to build strong and resilient technical foundations. I focus on developing end-to-end applications that solve real-world problems through clean architecture, reliable infrastructure, and scalable systems.
