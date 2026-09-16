@@ -6,6 +6,6 @@
 
 Computer Science undergraduate at Universidade Federal do Paraná (UFPR).
 
-My work and research are currently focused on the intersection of **Backend Development, Data Engineering, and Applied Artificial Intelligence**.
+My work and research are currently focused on the intersection of **Product Vision, Data Intelligence, and Business Strategy.**.
 
-Rather than just writing code, my goal is to build strong and resilient technical foundations. I focus on developing **end-to-end applications** that solve real-world problems through **clean architecture, reliable infrastructure, and scalable systems**.
+Rather than just writing code, I care about the **problem a solution solves** and the **impact it generates**. I leverage my technical background to build end-to-end data products that transform raw data into **actionable insights** and **strategic decisions**.
