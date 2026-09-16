@@ -6,6 +6,6 @@
 
 Computer Science undergraduate at Universidade Federal do Paraná (UFPR).
 
-My work and research are currently focused on the intersection of **Product Vision, Data Intelligence, and Business Strategy.**.
+My work and research are currently focused on the intersection of **Product Vision, Data Intelligence, and Business Strategy**.
 
 Rather than just writing code, I care about the **problem a solution solves** and the **impact it generates**. I leverage my technical background to build end-to-end data products that transform raw data into **actionable insights** and **strategic decisions**.
